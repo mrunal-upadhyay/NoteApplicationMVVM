@@ -1,3 +1,5 @@
+ [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()    [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+ 
 ## NoteApplicationMVVM
 
 This is a Simple Note Application that is built in Kotlin following google app architecture guidelines and MVVM methodology.
@@ -18,12 +20,13 @@ This is a Simple Note Application that is built in Kotlin following google app a
 
 # ScreenShots
 
-MainActivity
+<div style="display:flex;" >
+<img  src="mainactivity.png" width="40%" >
+<img style="margin-left:10px;" src="newnote.png" width="40%" >
 
-![mainactivity.png](mainactivity.png)
-
-Add Note Activity
-
-![newnote.png](newnote.png)
-
+  
 Special mention to https://proandroiddev.com/building-an-android-app-using-android-architecture-components-room-viewmodel-and-livedata-702a0af899ae article for the motivation and idea.
+
+<a href="https://www.linkedin.com/in/mrunalupadhyay/">
+  <img alt="Follow me on linked In"
+   src="https://github.com/faheema/img/blob/master/ln.png"  height="50" width="50"/> 
