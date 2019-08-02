@@ -16,4 +16,9 @@ This is a Simple Note Application that is built in Kotlin following google app a
 # Google Guide to App Architecture
 ![GoogleGuideToAppArchitecture.png](GoogleGuideToAppArchitecture.png)
 
+# ScreenShots
+
+![mainactivity.png](mainactivity.png)
+![newnote.png](newnote.png)
+
 Special mention to https://proandroiddev.com/building-an-android-app-using-android-architecture-components-room-viewmodel-and-livedata-702a0af899ae article for the motivation and idea.
