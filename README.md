@@ -1,6 +1,6 @@
  [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()    [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
  
-## NoteApplication
+## Note Application
 
 This is a Simple Note Application that is built in Kotlin following google app architecture guidelines and MVVM methodology.
 
