@@ -1,6 +1,6 @@
 ## NoteApplicationMVVM
 
-This is a simple note application that is built in Kotlin following google app architecture guidelines.
+This is a Simple Note Application that is built in Kotlin following google app architecture guidelines and MVVM methodology.
 
 # Implementation steps
 
